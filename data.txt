@@ -1,15 +1,5 @@
 info: data 
-start  
-work: 
-// new section 
-Start :sub   
-  Task Test 
-End : sub 
-// add task zero 
-task zero 
-task un 
-task deux 
-end 
- 
-start :1 
-end : 1
+start 
+clean all 
+taskzzz 1 
+end  
